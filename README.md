@@ -19,7 +19,7 @@ An AI-powered tool that gives real-time feedback on your spoken interview respon
 
 ---
 
-## 📸 Preview
+<!-- ## 📸 Preview -->
 
 > _(Add a screenshot or GIF demo here if available)_
 
